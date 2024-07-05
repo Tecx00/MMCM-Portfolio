@@ -8,9 +8,9 @@
 
 ###
 
-<h3 align="center">Welcome to my portfolio for CS152. This is where team SPYs documents and other resources are stored as well as my personal documents. This repository mostly contains the resources for our application MapuaMate.</h3>
+<h4 align="center">Welcome to my portfolio for CS152. This is where team SPYs documents and other resources are stored as well as my personal documents. This repository mostly contains the resources for our application MapuaMate.</h4>
 
-###
+---
 
 <br>
 
